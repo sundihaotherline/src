@@ -16,6 +16,6 @@ cmake --build build -j
 ##输出结果
 HELLO Robomaster
 
-![Ubuntu环境证明](截图 2026-09-19 09-32-31.png)
+![Ubuntu环境证明](env.png)
 
-![程序输出结果](截图 2026-09-19 09-33-47.png)
+![程序输出结果](output.png)
