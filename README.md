@@ -18,5 +18,5 @@ HELLO Robomaster
 
 
 
-![test](/home/sundish/project/src/截图 2026-09-19 09-33-47.png)
-![test](/home/sundish/project/src/截图 2026-09-19 09-32-31.png)
+![Ubuntu环境证明](src/截图 2026-09-19 09-32-31.png)
+![程序输出结果](src/截图 2026-09-19 09-33-47.png)
